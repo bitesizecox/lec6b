@@ -24,46 +24,4 @@ def magic8Ball():
 		print("Sorry, that's not a valid question...")
 		magic8Ball()
 
-	
-
-	# game_over = input("You may respond with yes or no: ")
-	# game_over.upper()
-	# if game_over == "YES" or "NO":
-	# 	if game_over == "NO":
-	# 		game = False
-	# 	if game_over == "YES":
-	# 		game = True
-
-# magic8Ball()
-
-# while True:
-#     # main program
-#     while True:
-#         answer = raw_input('Run again? (y/n): ')
-#         if answer in ('y', 'n'):
-#             break
-#         print 'Invalid input.'
-#     if answer == 'y':
-#         continue
-#     else:
-#         print 'Goodbye'
-#         break
-
-
-
-
-
-
-# question = input("questions: ")
-# print(question)
-# print(question[-1])
 magic8Ball()
-# play_again = input("moo yes or no: ").upper()
-# if play_again == "YES" or "NO":
-# 	if play_again == "NO":
-# 		print("butt")
-# 	else:
-# 		print("monkey")
-
-
-
